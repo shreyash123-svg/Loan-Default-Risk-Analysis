@@ -61,6 +61,8 @@ Key Features:
 Dashboard Preview:
 
 Page 1 – Portfolio Overview
+https://github.com/shreyash123-svg/Loan-Default-Risk-Analysis/blob/main/Risk%20analysis.png
 
 Page 2 – Risk Analysis
+https://github.com/shreyash123-svg/Loan-Default-Risk-Analysis/blob/main/Risk%20analysis.png
 
