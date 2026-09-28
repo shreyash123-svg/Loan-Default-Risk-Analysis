@@ -25,7 +25,6 @@ The project uses a publicly available loan dataset containing information such a
 - Loan purpose
 - Borrower state
 - Loan status
-- 
 The data was cleaned, transformed, and analyzed using PostgreSQL before being connected to Power BI.
 
 
