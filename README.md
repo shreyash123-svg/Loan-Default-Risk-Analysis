@@ -54,3 +54,13 @@ Key Features:
 - Risk tier classification
 - High-risk application identification
 - Manual review prioritization
+
+
+6. Screenshots / Demo
+
+Dashboard Preview:
+
+Page 1 – Portfolio Overview
+
+Page 2 – Risk Analysis
+
